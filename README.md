@@ -86,16 +86,14 @@ I build complete full-stack SaaS systems — from UI to cloud deployment.
 
 ---
 
-<h2 align="center">👾 CONTRIBUTION GRID</h2>
-
+<<h2 align="center">👾 CONTRIBUTION MATRIX</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kush200444/Kush200444/output/snake-dark.svg" />
 </p>
 
-
----
-
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Kush200444&icon=5&color=12"/>
+  <img src="https://img.shields.io/badge/Code_Mode-Activated-00ffcc?style=for-the-badge&logo=matrix&logoColor=black" />
 </p>
+
+
