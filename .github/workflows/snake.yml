@@ -17,9 +17,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Kush200444
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+outputs: |
+  dist/snake.svg?palette=github
+  dist/snake-dark.svg?palette=github-dark
+
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
