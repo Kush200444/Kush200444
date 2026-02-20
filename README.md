@@ -93,7 +93,7 @@ I build complete full-stack SaaS systems — from UI to cloud deployment.
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Kush200444/Kush200444/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Kush200444/Kush200444/output/github-snake-dark.svg" />
 </p>
 
 ---
