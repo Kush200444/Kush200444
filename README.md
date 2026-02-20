@@ -88,13 +88,11 @@ I build complete full-stack SaaS systems — from UI to cloud deployment.
 
 <h2 align="center">👾 CONTRIBUTION GRID</h2>
 
-<p align="center">
-⚠ Snake animation activates after GitHub Action setup.
-</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kush200444/Kush200444/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Kush200444/Kush200444/output/snake-dark.svg" />
 </p>
+
 
 ---
 
